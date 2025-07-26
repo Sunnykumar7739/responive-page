@@ -1,1 +1,0 @@
-# responive-page
